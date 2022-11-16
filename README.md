@@ -60,7 +60,7 @@ Redémarrez l’IDE Arduino.
 
 5\.     Pour télécharger les fichiers, dans l’Ide Arduino, allez à **Outilsà ESP32 Sketch Data Upload** (ne pas oublier de fermer le moniteur série s’il est ouvert)
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Remarque : pour certaines cartes de développement ESP32, quand on voit le message « Connecting ……\_\_\_\_\_\_\_...... », vous devez appuyer sur le bouton BOOT et rester appuyé jusqu’à la fin du téléchargement des fichiers.
 
@@ -102,4 +102,4 @@ Après téléversement du fichier Test.ino, ouvrez le moniteur série au taux de
 
 Sur l’ESP32, appuyez sur le bouton « ENABLE » (ou « RST »). Le contenu du fichier **test.txt** s’affiche sur le moniteur série :
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
