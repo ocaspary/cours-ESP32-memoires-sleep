@@ -20,10 +20,10 @@ Ensuite, cliquez sur l’icône PlatformIO (la fourmi), puis dans Project tasks 
 
 \-        sur Upload Filesystem Image (n’oubliez pas de connecter votre ESP32 à un port USB)
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Puis téléverser (upload) le programme main.cpp dans l’ESP32.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Puis téléverser (upload) le programme main.cpp dans l’ESP32.</p></figcaption></figure>
 
 Puis téléverser (upload) le programme main.cpp dans l’ESP32.
 
 La sortie du moniteur série est la suivante :
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

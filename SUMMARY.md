@@ -10,4 +10,4 @@
 ## Modes Sleep
 
 * [Découvertes des modes](modes-sleep/decouvertes-des-modes.md)
-* [Exercice Surveillance](modes-sleep/exercice-surveillance.md)
+* [Exercice surveillance de l'ESP32](modes-sleep/exercice-surveillance-de-lesp32.md)

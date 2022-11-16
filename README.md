@@ -66,7 +66,7 @@ Remarque : pour certaines cartes de développement ESP32, quand on voit le messa
 
 Quand vous voyez le message **SPIFFS Image Uploaded**, c’est que l’opération a réussi.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Vérification du téléchargement**
 
