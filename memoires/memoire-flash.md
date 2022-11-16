@@ -2,9 +2,9 @@
 
 **Problème de la mémoire FLASH :**
 
-On peut vouloir garder un contexte entre deux redémarrages de l'ESP32. Dans ce cas on peut utiliser la mémoire flash mais celle-ci à un nombre de cycle d'écriture maximum avant de... mourir. Le nombre cycle max est variable en fonction des circuits mais est de l'ordre de 100 000. Il peut être plus élevé (jusque même 1 000 000) mais vous n’avez aucune garantie que cela soit le cas !
+On peut vouloir garder un contexte entre deux redémarrages de l'ESP32. Dans ce cas, on peut utiliser la mémoire flash mais celle-ci à un nombre de cycle d'écriture maximum avant de... mourir. Le nombre cycle max est variable en fonction des circuits mais est de l'ordre de 100 000. Il peut être plus élevé (jusque même 1 000 000) mais vous n’avez aucune garantie que cela soit le cas !
 
-Cela parait beaucoup mais imaginons que l'on crée un système qui, pour économiser de la batterie, se réveille toutes les 10 min avant de se rendormir. Alors on "tue" la mémoire flash en... 277 heures soit 11 jours. C'est donc impossible.
+Cela paraît beaucoup mais imaginons que l'on crée un système qui, pour économiser de la batterie, se réveille toutes les 10 min avant de se rendormir. Alors on "tue" la mémoire flash en... 277 heures soit 11 jours. C'est donc impossible.
 
 
 
