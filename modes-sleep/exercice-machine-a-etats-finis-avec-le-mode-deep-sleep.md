@@ -12,8 +12,8 @@ Tester d’abord le mode Deep Sleep avec juste Touch 1. Les fonctions utiles son
 
 {% embed url="https://docs.espressif.com/projects/espidf/en/latest/apireference/system/sleep_modes.html" %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Trois fils pour le montage : touch1 --> GPIO13, touch2 --> GPIO12, touch3 --> GPIO14
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>

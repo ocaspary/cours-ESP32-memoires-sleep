@@ -44,7 +44,7 @@ Adapter le programme du tutoriel pour qu’il fonctionne avec les deux ESP32 afi
 
 Nous sommes en **mode Pull-down** (schéma de droite), quand on appuie sur un bouton poussoir, un niveau HIGH est détecté par GPIO34 ou GPIO35, ce qui réveille l’ESP32.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Référence :
 

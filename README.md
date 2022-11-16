@@ -10,7 +10,7 @@ description: description
 
 L’ESP32 contient un SPIFFS (Serial Peripheral Interface Flash File System). SPIFFS est un système de fichiers léger créé pour les microcontrôleurs qui ont une puce flash, et qui y sont connectés par bus SPI, comme la mémoire flash de l’ESP32.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction à SPIFFS**
 

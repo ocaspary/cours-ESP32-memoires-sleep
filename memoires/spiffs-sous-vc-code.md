@@ -26,4 +26,4 @@ Puis téléverser (upload) le programme main.cpp dans l’ESP32.
 
 La sortie du moniteur série est la suivante :
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
