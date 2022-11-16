@@ -12,4 +12,7 @@
 * [Découvertes des modes](modes-sleep/decouvertes-des-modes.md)
 * [Exercice surveillance de l'ESP32](modes-sleep/exercice-surveillance-de-lesp32.md)
 * [Exercice machine à états finis avec le mode Deep Sleep](modes-sleep/exercice-machine-a-etats-finis-avec-le-mode-deep-sleep.md)
-* [Documentation](modes-sleep/documentation.md)
+
+## Documentation
+
+* [Diagramme et comparaisons](documentation/diagramme-et-comparaisons.md)

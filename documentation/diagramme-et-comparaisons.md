@@ -1,6 +1,6 @@
-# Documentation
+# Diagramme et comparaisons
 
-Quelques
+Diagramme fonctionnel de l'ESP32 :
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
@@ -8,13 +8,13 @@ Comparaison avec d’autres microcontrôleurs bien connus (l’ESP8266 est la ve
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Lien  :
+Lien pour connaître les différents types de mémoires des microcontrôleurs :
 
 {% embed url="https://barrgroup.com/Embedded-Systems/How-To/Memory-Types-RAM-ROM-Flash" %}
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-D’après le lien :
+Comparaison entre microcontrôleurs _Espressif_ d’après le lien :
 
 {% embed url="https://maker.pro/esp8266/tutorial/a-comparison-of-the-new-esp32-s2-to-the-esp32" %}
 
