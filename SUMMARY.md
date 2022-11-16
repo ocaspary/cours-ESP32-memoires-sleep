@@ -3,7 +3,7 @@
 ## Mémoires
 
 * [SPIFFS (sous Arduino)](README.md)
-* [SPIFFS (sous VC Code)](memoires/spiffs-sous-vc-code.md)
+* [SPIFFS (sous VS Code)](memoires/spiffs-sous-vs-code.md)
 * [Mémoire Flash](memoires/memoire-flash.md)
 * [RTC memory](memoires/rtc-memory.md)
 
