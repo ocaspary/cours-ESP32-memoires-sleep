@@ -18,15 +18,11 @@ SPIFFS nous permet d’accéder à la mémoire flash (Flash Memory) comme nous a
 
 Les principaux usages de SPIFFS sont :
 
-\-        Créer des fichiers de configuration avec des installations
-
-\-        Sauvegarder des données de manière permanente
-
-\-        Créer des fichiers pour enregistrer des petites quantités de données plutôt que d’utiliser une microcarte SD
-
-\-        Sauvegarder des fichiers HTML et CSS pour construire un serveur Web
-
-\-        Etc.
+* Créer des fichiers de configuration avec des installations
+* Sauvegarder des données de manière permanente
+* Créer des fichiers pour enregistrer des petites quantités de données plutôt que d’utiliser une microcarte SD
+* Sauvegarder des fichiers HTML et CSS pour construire un serveur Web
+* Etc.
 
 **Installation**
 
