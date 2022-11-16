@@ -1,8 +1,8 @@
-# SPIFFS (sous VC Code)
+# SPIFFS (sous VS Code)
 
 **Pour VS Code (même principe) :**
 
-[**https://microcontrollerslab.com/upload-files-esp32-spiffs-vs-code-platformio-ide/**](https://microcontrollerslab.com/upload-files-esp32-spiffs-vs-code-platformio-ide/)
+{% embed url="https://microcontrollerslab.com/upload-files-esp32-spiffs-vs-code-platformio-ide/" %}
 
 Avec PlatformIO, créez un nouveau projet, appelé par exemple ESP32\_SPIFFS, avec la carte ESP32 NodeMCU et le framework Arduino.
 
